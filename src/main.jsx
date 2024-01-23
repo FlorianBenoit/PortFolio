@@ -8,7 +8,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Routes>
       <Route
-        path='/'
+        path='*'
         element={
           <>
             <App />
