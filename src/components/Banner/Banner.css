@@ -1,0 +1,38 @@
+.banner {
+  display: flex;
+  margin-top: -4rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+  background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p3/523561-developpement-d-39-applications-mobiles-sur-fond-de-concept-d-39-ecran-pour-ordinateur-portable-codage-d-39-application-et-developpement-web-appareils-multi-plateformes-pour-smartphone-tablette-et-ordinateur-vecteur-vectoriel.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  text-shadow: 1px 1px 2px black;
+}
+.banner-in {
+  color: white;
+  width: 50%;
+}
+.banner-name {
+  font-size: 3rem;
+  color: white;
+  margin-bottom: 1rem;
+}
+.banner-job {
+  font-size: 2rem;
+}
+
+@media screen and (max-width: 780px) {
+  .banner-name {
+    color: black;
+  }
+  .banner-in {
+    color: black;
+    width: 25rem;
+  }
+  .banner {
+    align-items: center;
+    text-shadow: 1px 1px 2px white;
+  }
+}

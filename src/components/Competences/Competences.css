@@ -1,0 +1,33 @@
+.comp-cards {
+  width: 100%;
+}
+.comp-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.comp-cv {
+  font-size: larger;
+  color: black;
+}
+
+.link-cv {
+  color: var(--main-color);
+}
+
+.comp-title {
+  font-size: xx-large;
+  border-top: solid 2px;
+  padding-top: 1rem;
+  width: 65rem;
+  color: var(--main-color);
+}
+.comp-desc {
+  margin: 1rem;
+  width: 50%;
+  font-size: large;
+  color: black;
+}
