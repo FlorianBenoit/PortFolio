@@ -32,7 +32,7 @@ function About() {
 
               <div className='social'>
                 <a
-                  href='www.linkedin.com/in/florian-benoit-barnet'
+                  href='https://www.linkedin.com/in/florian-benoit-barnet'
                   target='_blank'
                   rel='noreferrer'>
                   <div className='social-icon'>
