@@ -7,7 +7,7 @@ function About() {
         <div className='about-title'>A PROPOS DE MOI</div>
         <div className='about-desc'>
           <div className='about-img'>
-            <img className='about-pic' src='./public/Moi.PNG' alt='' />
+            <img className='about-pic' src='./public/Moi.JPG' alt='' />
           </div>
           <div className='about-text'>
             Salut, moi c'est Florian, jeune développeur passionné par la technologie depuis mon plus
