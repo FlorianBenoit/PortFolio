@@ -31,7 +31,10 @@ function Cards() {
             <Zoom top>
               <div className='card'>
                 <i className='fab fa-sketch'>
-                  <img src='public/React-icon.svg.png' alt='' />
+                  <img
+                    src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/langfr-1024px-React_Logo_SVG.svg.png'
+                    alt=''
+                  />
                 </i>
                 <h4>REACT</h4>
                 <p>Redux-Router</p>
