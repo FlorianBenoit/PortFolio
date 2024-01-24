@@ -20,28 +20,28 @@ function Cardsfolio() {
             <div>
               <img
                 className='card-picture'
-                src='public/Screenshot 2024-01-23 at 16-24-24 GeekOps.png'
+                src='./public/Screenshot 2024-01-23 at 16-24-24 GeekOps.png'
                 alt='Image 1'
               />
             </div>
             <div>
               <img
                 className='card-picture'
-                src='public/Screenshot 2024-01-23 at 16-31-28 GeekOps.png'
+                src='./public/Screenshot 2024-01-23 at 16-31-28 GeekOps.png'
                 alt='Image 2'
               />
             </div>
             <div>
               <img
                 className='card-picture'
-                src='public/Screenshot 2024-01-23 at 16-31-43 GeekOps.png'
+                src='./public/Screenshot 2024-01-23 at 16-31-43 GeekOps.png'
                 alt='Image 3'
               />
             </div>
             <div>
               <img
                 className='card-picture'
-                src='public/Screenshot 2024-01-23 at 16-32-12 GeekOps.png'
+                src='./public/Screenshot 2024-01-23 at 16-32-12 GeekOps.png'
                 alt='Image 4'
               />
             </div>
@@ -56,7 +56,7 @@ function Cardsfolio() {
           <div>
             <img
               className='card-picture'
-              src='public/Screenshot 2024-01-23 at 18-25-13 Florian Benoit-Barnet.png'
+              src='./public/Screenshot 2024-01-23 at 18-25-13 Florian Benoit-Barnet.png'
               alt='Image 1'
             />
           </div>
