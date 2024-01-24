@@ -49,7 +49,9 @@ function Cardsfolio() {
           </Slider>
           <div className='card-info'>
             <h2 className='card-title'>Wod Experience</h2>
-            <p className='card-desc'>Projet réalisé en fin de formation - React TS</p>
+            <p className='card-desc'>
+              Projet réalisé en fin de formation <br /> React TS
+            </p>
           </div>
         </div>
         <div className='material-card' href='/some-article'>
@@ -64,7 +66,9 @@ function Cardsfolio() {
 
           <div className='card-info'>
             <h2 className='card-title'>Portfolio</h2>
-            <p className='card-desc'>Le site sur lequel vous êtes actuellement !</p>
+            <p className='card-desc'>
+              Le site sur lequel vous êtes actuellement ! <br /> React JS
+            </p>
           </div>
         </div>
       </div>

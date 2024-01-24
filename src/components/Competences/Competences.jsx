@@ -16,12 +16,6 @@ function Competences() {
           <div className='comp-cards'>
             <Cards />
           </div>
-          <div className='comp-cv'>
-            Vous pouvez également télécharger mon CV{" "}
-            <a className='link-cv' href='CV.pdf' download='CVDocument.pdf'>
-              ici !
-            </a>
-          </div>
         </div>
       </div>
     </div>
