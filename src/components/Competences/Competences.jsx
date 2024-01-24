@@ -18,7 +18,7 @@ function Competences() {
           </div>
           <div className='comp-cv'>
             Vous pouvez également télécharger mon CV{" "}
-            <a className='link-cv' href='public/CV.pdf' download='CVDocument.pdf'>
+            <a className='link-cv' href='CV.pdf' download='CVDocument.pdf'>
               ici !
             </a>
           </div>
